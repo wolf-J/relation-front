@@ -1,5 +1,5 @@
 {
-  "name": "xims-static",
+  "name": "relation-front",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,7 +8,7 @@
     "lint": "vue-cli-service lint",
     "test:e2e": "vue-cli-service test:e2e",
     "test:unit": "vue-cli-service test:unit",
-    "package": "vue-cli-service build --mode production --dest xims-static --target app --dashboard"
+    "package": "vue-cli-service build --mode production --dest relation-front --target app --dashboard"
   },
   "dependencies": {
     "axios": "^0.18.1",

@@ -1,4 +1,4 @@
-# xims-static
+# relation-front
 
 ## Project setup
 ```
