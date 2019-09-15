@@ -1,0 +1,2 @@
+﻿//document.write("<script type='text/javascript' src='http://172.24.18.102/gxCcApi/js/GxCcApiSDK.js?v=" + new Date().getTime() + "'></script>");
+document.write("<script type='text/javascript' src='GxCcApiSDK.js?v=" + new Date().getTime() + "'></script>");
